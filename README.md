@@ -51,6 +51,6 @@ __이것도 볼드체(굵은체)입니다.__
 3. 순서가 필요하지 않은 목록
    - 대쉬(hyphen)
    * 별표(asterisks)
-   * 더하기(plus sign)
+   + 더하기(plus sign)
    
    
